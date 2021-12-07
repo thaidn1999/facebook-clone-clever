@@ -1,0 +1,11 @@
+.widgets {
+  margin: 10px;
+}
+.widget {
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+.widget > iframe {
+  margin-bottom: 20px;
+  border-bottom: 1px solid lightgray;
+}
